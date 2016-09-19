@@ -1,0 +1,9 @@
+Dear Chris,
+Check out all of the Pokemon I've caught!
+Ditto Level:12 HP:25/25 Speed:120
+Magikarp Level:13 HP:67/67 Speed:14 Luck:0.13
+Ditto Level:13 HP:80/80 Speed:104
+Magikarp Level:11 HP:70/70 Speed:16 Luck:0.15
+Pikachu Level:18 HP:20/20 Speed:100
+Cheers,
+Ash

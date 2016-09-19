@@ -1,0 +1,5 @@
+Ditto, 12, 25, 120
+Magikarp, 13, 67, 14, 0.1321
+Ditto, 13, 80, 104
+Magikarp, 11, 70, 16
+Pikachu, 18, 20, 100
